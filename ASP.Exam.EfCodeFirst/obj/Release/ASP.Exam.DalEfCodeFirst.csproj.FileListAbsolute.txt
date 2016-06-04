@@ -1,0 +1,10 @@
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.EfCodeFirst\bin\Release\ASP.Exam.EfCodeFirst.dll.config
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.EfCodeFirst\bin\Release\ASP.Exam.EfCodeFirst.dll
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.EfCodeFirst\bin\Release\ASP.Exam.EfCodeFirst.pdb
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.EfCodeFirst\bin\Release\EntityFramework.dll
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.EfCodeFirst\bin\Release\EntityFramework.SqlServer.dll
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.EfCodeFirst\bin\Release\EntityFramework.xml
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.EfCodeFirst\bin\Release\EntityFramework.SqlServer.xml
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.EfCodeFirst\obj\Release\ASP.Exam.DalEfCodeFirst.csprojResolveAssemblyReference.cache
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.EfCodeFirst\obj\Release\ASP.Exam.EfCodeFirst.dll
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.EfCodeFirst\obj\Release\ASP.Exam.EfCodeFirst.pdb

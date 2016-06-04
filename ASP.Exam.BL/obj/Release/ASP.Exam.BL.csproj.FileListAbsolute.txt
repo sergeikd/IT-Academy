@@ -1,0 +1,12 @@
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.BL\bin\Release\ASP.Exam.BL.dll.config
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.BL\bin\Release\ASP.Exam.BL.dll
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.BL\bin\Release\ASP.Exam.BL.pdb
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.BL\bin\Release\ASP.Exam.EfCodeFirst.dll
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.BL\bin\Release\EntityFramework.dll
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.BL\bin\Release\EntityFramework.SqlServer.dll
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.BL\bin\Release\ASP.Exam.EfCodeFirst.pdb
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.BL\bin\Release\EntityFramework.xml
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.BL\bin\Release\EntityFramework.SqlServer.xml
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.BL\obj\Release\ASP.Exam.BL.csprojResolveAssemblyReference.cache
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.BL\obj\Release\ASP.Exam.BL.dll
+F:\ASP.NET\Projects\ASP.Exam\ASP.Exam.BL\obj\Release\ASP.Exam.BL.pdb

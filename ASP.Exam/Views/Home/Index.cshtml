@@ -1,0 +1,19 @@
+﻿@model IEnumerable<ASP.Exam.DalEfCodeFirst.Users>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<input type="button" id="addUser" value="Добавить нового пользователя" />
+<div id="tableBlock"></div>
+
+<div id="createBlock">
+    <h4>Добавление пользователя</h4></>
+    <input type="text" id="addName" value="Name"/><br />
+    <input type="text" id="addSurname"  value="Surname"/><br />
+    <input type="number" id="addAge" value="22"/><br />
+    <input type="text" id="addAddress"  value="Address" /><br />
+    <button id="saveUser">Сохранить</button>
+</div>
+<div id="detailes"></div>
+<script src="~/Scripts/Users.js"></script>
